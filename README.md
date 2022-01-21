@@ -18,9 +18,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingupta-max&show_icons=true&locale=en&layout=compact" alt="nitingupta-max" /></p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/nitingupta-max/nitingupta-max/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitingupta-max&show_icons=true&locale=en" alt="nitingupta-max" /></p>? -->
 
