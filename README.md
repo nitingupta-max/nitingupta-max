@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Gupta</h1>
 
-<p align="center"><img height="300px", width="600px" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"></img></p> 
+<p align="center"><img height="450px", width="800px" src="https://cloud.parniantarh.ir/2021/11/ss5-1.gif"></img></p> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/NitinGu13499448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitin_gupta" height="30" width="40" /></a>
