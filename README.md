@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitingupta-max&show_icons=true&locale=en" alt="nitingupta-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingupta-max&" alt="nitingupta-max" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingupta-max&" alt="nitingupta-max" /></p> -->
